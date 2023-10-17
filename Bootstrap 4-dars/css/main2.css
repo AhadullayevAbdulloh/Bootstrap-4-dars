@@ -1,0 +1,24 @@
+.wrap111{
+    background-color: deepskyblue;
+}
+.Download{
+    border: solid 8px red;
+    width: 200px;
+    height: 40px;
+    background-color: red;
+    margin-left: 450px;
+    color: white;
+}
+.Mars{
+    border: solid 1px white;
+    text-align: center;
+    width: 200px;
+    height: 40px;
+    /*font-size: 15px;*/
+    background-color: deepskyblue;
+    margin-left: 425px;
+    color: white;
+    margin-bottom: 300px;
+    padding-top: 5px;
+
+}
